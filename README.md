@@ -1,4 +1,5 @@
 # COVID-19 Vaccination Analysis using Power BI
+![Alt Text](Screenshot 2024-04-30 160809.png)
 
 ## Introduction
 
