@@ -1,5 +1,5 @@
 # COVID-19 Vaccination Analysis using Power BI
-![Alt Text](Covid19TrendAnalysis.png)
+![Alt Text](Covid19TrendAnalysis .png)
 
 ## Introduction
 
