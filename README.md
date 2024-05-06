@@ -1,3 +1,4 @@
+![Covid19TrendAnalysis.png](https://rushter.com/counter.svg)
 # COVID-19 Vaccination Analysis using Power BI
 ![Alt Text](Covid19TrendAnalysis.png)
 ![Alt Text](DetailedVaccineReportofthecountryselected.png)
